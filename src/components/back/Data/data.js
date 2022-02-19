@@ -1,46 +1,7 @@
 
 const data = {
     productItems: [
-        // {
-        //     id: '1',
-        //     name: 'Beats Headphone',
-        //     price: 990,
-        //     image: './pics/img1.jpg'
-            
-        // },
-        // {
-        //     id: '2',
-        //     name: 'sol Headphone',
-        //     price: 991,
-        //     image: './pics/img2.jpg'
-            
-
-        // },
-        // {
-        //     id: '3',
-        //     name: 'Sol',
-        //     price: 992,
-        //     image: './pics/img3.jpg'
-        // },
-        // {
-        //     id: '4',
-        //     name: 'Beats',
-        //     price: 993,
-        //     image: './pics/img4.jpg'
-        // },
-        // {
-        //     id: '5',
-        //     name: 'Beats1',
-        //     price: 994,
-        //     image: './pics/img5.jpg'
-        // },
-        // {
-        //     id: '6',
-        //     name: 'Beats2',
-        //     price: 995,
-        //     image: './pics/img6.jpg'
-        // },
-
+     
         {
             "id": 1,
             "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
